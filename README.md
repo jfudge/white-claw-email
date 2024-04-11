@@ -1,1 +1,1 @@
-# white-claw-email
+White Claw Email Design - Respsonsive
