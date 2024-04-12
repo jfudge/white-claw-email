@@ -1,1 +1,1 @@
-White Claw Email Design - Respsonsive
+White Claw Email Design - Responsive
